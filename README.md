@@ -1,2 +1,2 @@
 # link-github-and-Rstudio
-assignment 1
+A repository that will be linked to your Rstudio
